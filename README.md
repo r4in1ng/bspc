@@ -1,16 +1,6 @@
 # bspc
 
-This is the [Quake III: Arena](http://www.idsoftware.com/games/quake/quake3-arena/) BSP-to-AAS compiler.
-
-## Downloading
-
-You can download the latest version [here](https://github.com/bnoordhuis/bspc).
-
-## Compiling
-
-Dead simple:
-
-	make
+This is the [Quake III: Arena](http://www.idsoftware.com/games/quake/quake3-arena/) BSP-to-AAS compiler with higher limitations.
 
 ## Usage
 
@@ -38,10 +28,6 @@ Straight from the source:
 	   nocsg                                = disables brush chopping
 	   forcesidesvisible                    = force all sides to be visible
 	   grapplereach                         = calculate grapple reachabilities
-
-## Support
-
-[File a bug report](https://github.com/bnoordhuis/bspc/issues) if you run into issues.
 
 ## License
 
