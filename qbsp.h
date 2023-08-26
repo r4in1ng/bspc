@@ -235,8 +235,8 @@ extern	char source[1024];
 // map.c
 //=============================================================================
 
-#define MAX_MAPFILE_PLANES			256000
-#define MAX_MAPFILE_BRUSHES			65535
+#define MAX_MAPFILE_PLANES			512000
+#define MAX_MAPFILE_BRUSHES			512000
 #define MAX_MAPFILE_BRUSHSIDES		(MAX_MAPFILE_BRUSHES*8)
 #define MAX_MAPFILE_TEXINFO			8192
 
